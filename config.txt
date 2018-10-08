@@ -1,0 +1,6 @@
+token=NDk2Njk4MjU1MDExNDc5NTgy.DpUePg.wuBQhDNV4ZeUrZdsXP7ccfczGxk
+owner=465649311871533066
+prefix=2
+game=Type 2play
+stayinchannel=true
+songinstatus=false
